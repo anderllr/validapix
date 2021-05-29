@@ -4,7 +4,7 @@
   "description": "Integração PIX Gerencia NET",
   "main": "index.js",
   "engines": {
-    "node": "14.16.1"
+    "node": "16.2.0"
   },
   "type": "module",
   "dependencies": {
