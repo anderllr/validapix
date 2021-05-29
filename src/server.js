@@ -23,7 +23,7 @@ app.get("/", async (req, res) => {
     valor: {
       original: "0.10",
     },
-    chave: "385d3e62-a259-4ec8-bcc4-fa91c4b1cd33",
+    chave: "086aa23e-a349-426f-9273-937302658beb",
     solicitacaoPagador: "Pagamento referente app PIX",
   };
 
